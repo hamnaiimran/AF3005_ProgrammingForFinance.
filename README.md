@@ -88,11 +88,3 @@ The system is implemented as a Jupyter Notebook utilizing `ipywidgets` for inter
 - `README.md`: This document, providing an overview and implementation details.
 - `requirements.txt`: List of Python dependencies required to run the notebook.
 
-## Getting Started
-
-To run the Smart Financial Management System locally:
-
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/[Your_GitHub_Username]/AF3005_ProgrammingForFinance.git
